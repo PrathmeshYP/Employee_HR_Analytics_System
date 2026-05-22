@@ -30,7 +30,6 @@ This system provides an automated and analytics-driven HR solution.
 ✅ Employee Attendance Analysis  
 ✅ Leave Management System  
 ✅ Department-wise Employee Analytics
-
 ✅ Workforce KPI Monitoring  
 ✅ Employee Attrition Analysis  
 ✅ HR Reporting Dashboard  
